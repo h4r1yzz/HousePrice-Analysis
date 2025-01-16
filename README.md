@@ -68,6 +68,8 @@ This project is a comprehensive real estate data analysis pipeline designed to e
        - Loading the data to S3 and Snowflake.
      - The DAG is scheduled to run monthly.
 
+![Airflow](airflow.png)
+
 ## 🔑 Key Features
 
 - **🤖 Automated ETL Pipeline**: The entire process is automated using Apache Airflow, ensuring data is processed and updated regularly.
@@ -78,6 +80,8 @@ This project is a comprehensive real estate data analysis pipeline designed to e
 ---
 
 ## 📊 Insights from Power BI Charts
+
+![Real Estate](stock.png)
 
 ### 1. **📦 Sum of INVENTORY by Year, Month, and PROPERTY_TYPE**
    - **📈 Trends in Inventory Levels**: The chart shows fluctuations in inventory levels across different property types (Condo/Co-op, Multi-Family, Single Family Residential, Townhouse) over the years.
