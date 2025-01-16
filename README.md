@@ -23,8 +23,7 @@ This project is a comprehensive real estate data analysis pipeline designed to e
    - **Source**: Data is extracted from Redfin's public dataset hosted on AWS S3.
    - **Tool**: Python script using `pandas` to read the `.tsv.gz` file.
    - **Process**:
-     - The dataset is downloaded from the URL:  
-       `https://redfin-public-data.s3.us-west-2.amazonaws.com/redfin_market_tracker/city_market_tracker.tsv000.gz`.
+     - The dataset is downloaded from a Redfin Website
      - The data is saved as a CSV file locally on the EC2 instance.
 
 ### 2. **🔄 Data Transformation**
